@@ -1,0 +1,6 @@
+*.tfvars
+*.log
+*.bk*
+*.pem
+*.backup
+*.tmp
